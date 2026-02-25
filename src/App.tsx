@@ -111,7 +111,7 @@ function UsersContent() {
           onClick={handleReset}
           className="flex-1 border border-orange-700 hover:bg-orange-700 hover:text-white cursor-pointer text-neutral-800 dark:text-white px-4 py-2 rounded transition-colors duration-300"
         >
-          Resetear estado
+          Limpiar Filtros
         </button>
         <input
           type="text"
